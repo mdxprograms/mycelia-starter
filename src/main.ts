@@ -1,8 +1,8 @@
 import { dom, Emitter, mount } from "@wallerbuilt/mycelia";
 import Button from "@/components/Button";
 import buttonStyle from "@/components/ButtonStyle.module.css";
-import { combineClasses, hasClass, swapClass } from "helpers/className";
 import { Events } from "./types/Events";
+import { combineClasses, hasClass, swapClass } from "helpers/className";
 
 const appSelector = "#app";
 const emit = new Emitter();
