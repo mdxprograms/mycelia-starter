@@ -1,0 +1,12 @@
+.base {
+	border: none;
+	padding: 1rem;
+}
+
+.bgLight {
+	background: #fff;
+}
+
+.bgDark {
+	background: #ddd;
+}
